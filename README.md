@@ -4,20 +4,20 @@ Aim:
 Build a Model that predict Heart Disease
 
 Steps:
-Data Gathering
+1.Data Gathering
 
-Data Analysis
+2.Data Analysis
 
-Feature Engineering
+3.Feature Engineering
 
-Feature Scaling
+4.Feature Scaling
 
-Spitting the dataset
+5.Spitting the dataset
 
-Choose a Model
+6.Choose a Model
 
-Train the Model
+7.Train the Model
 
-Evaluate the Model
+8.Evaluate the Model
 
-Parameter Tuning
+9.Parameter Tuning
