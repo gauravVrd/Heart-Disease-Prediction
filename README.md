@@ -13,12 +13,14 @@ Steps:
 
 4.Feature Scaling
 
-5.Spitting the dataset
+5.Feature Selection
 
-6.Choose a Model
+6.Spitting the dataset
 
-7.Train the Model
+7.Choose a Model
 
-8.Evaluate the Model
+8.Train the Model
 
-9.Parameter Tuning
+9.Evaluate the Model
+
+10.Parameter Tuning
